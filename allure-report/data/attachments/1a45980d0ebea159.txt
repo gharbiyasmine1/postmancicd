@@ -1,0 +1,7 @@
+{
+  "nomComplet": "Caroline Smith",
+  "email": "Rowland_Howell@hotmail.com",
+  "password": "motdepasse123",
+  "telephone": "0622334455",
+  "fcm_token": "fcm_xxx"
+}

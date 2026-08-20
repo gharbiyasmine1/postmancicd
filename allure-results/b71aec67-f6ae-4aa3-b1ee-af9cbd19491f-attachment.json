@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3ByZXByb2QudGhydW5kcnouZnIvYmFja2VuZHB1YmxpYy9wdWJsaWMvYXBpL3YxL3JlZ2lzdGVyL2NsaWVudCIsImlhdCI6MTc4NzIyOTI0NCwiZXhwIjoxNzg5ODIxMjQ0LCJuYmYiOjE3ODcyMjkyNDQsImp0aSI6ImxNN0dnY0hydVpVZnRsMnQiLCJzdWIiOiIxMTI5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.EpVlLJHFNwG2ARxd4n5nfH5BfZvnMH7kScspz36D11A",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "64140929-0271-487c-b593-9ae7ed7599b5",
+    "Host": "preprod.thrundrz.fr",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "66"
+}
